@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\pro1\pro1\bin\Debug\pro1.exe.config
+C:\Users\DELL\Desktop\C#\pro1\pro1\bin\Debug\pro1.exe
+C:\Users\DELL\Desktop\C#\pro1\pro1\bin\Debug\pro1.pdb
+C:\Users\DELL\Desktop\C#\pro1\pro1\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Desktop\C#\pro1\pro1\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.Form1.resources
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.Properties.Resources.resources
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.exe
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.pdb
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.Form2.resources
+C:\Users\DELL\Desktop\C#\pro1\pro1\obj\Debug\pro1.Form3.resources
